@@ -33,3 +33,5 @@ El nombre aparecerá en la lista.
 Una vez agregados todos los nombres, haz clic en "Sortear amigo".
 
 Se generará una lista con los emparejamientos aleatorios.
+
+Creador por Alex Pacheco
